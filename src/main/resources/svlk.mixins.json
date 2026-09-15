@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "dev.lakel.svlk.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"SvlkMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
